@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+dotenv
+langchain-ollama
+langchain-openai
+docling
