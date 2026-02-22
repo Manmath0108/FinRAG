@@ -7,3 +7,5 @@ dotenv
 langchain-ollama
 langchain-openai
 docling
+pydantic
+rank_bm25
